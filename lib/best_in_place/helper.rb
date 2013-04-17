@@ -59,7 +59,11 @@ module BestInPlace
       out << " data-value='#{attribute_escape(value)}'" if value
       out << " data-content-id='#{opts[:content_id]}'" if opts[:content_id]
       out << " data-content-bar-id='#{opts[:content_bar_id]}'" if opts[:content_bar_id]
+      out << " data-content-class='#{opts[:content_class]}'" if opts[:content_class]
+      out << " data-content-bar-class='#{opts[:content_bar_class]}'" if opts[:content_bar_class]
       out << " data-content-real-id='#{opts[:content_real_id]}'" if opts[:content_real_id]
+      out << " data-options-wrapper-class='#{opts[:options_wrapper_class]}'" if opts[:options_wrapper_class]
+      out << " data-options-list-class='#{opts[:options_list_class]}'" if opts[:options_list_class]
 
       if opts[:data] && opts[:data].is_a?(Hash)
         opts[:data].each do |k, v|
