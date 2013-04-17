@@ -31,13 +31,10 @@ And this extensions add the following options
 The original README was moved to
 [here](https://github.com/twifno/best_in_place/blob/master/README.md.bernat)
 
------
-
 Authors, License and Stuff
 --------------------------
 
-Code based on [Bernat Farrero](http://bernatfarrero.com) from [Itnig Web
-Services](http://itnig.net) (it was based on the [original
+Code based on [Bernat Farrero](http://bernatfarrero.com) (it was based on the [original
 project](http://github.com/janv/rest_in_place/) of Jan Varwig) and
 released under [MIT
 license](http://www.opensource.org/licenses/mit-license.php).
