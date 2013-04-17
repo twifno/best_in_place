@@ -29,7 +29,7 @@ And this extensions add the following options
   button
 
 The original README was moved to
-[here](https://github.com/twifno/best_in_place/blob/master/README.md.bernat)
+[here](https://github.com/twifno/best_in_place/blob/master/README.bernat.md)
 
 Authors, License and Stuff
 --------------------------
